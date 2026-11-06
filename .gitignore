@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.env.test
+.env.local
+uploads
+uploads-dev
+.test-uploads
+*.log
+.DS_Store

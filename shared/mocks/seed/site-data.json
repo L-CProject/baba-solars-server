@@ -1,0 +1,1434 @@
+{
+  "schemaVersion": 3,
+  "exportedAt": "2026-10-17T17:20:07.860Z",
+  "data": {
+    "pricingPlans": [
+      {
+        "badge": "",
+        "ctaLabel": "",
+        "id": "plan-1kw",
+        "name": "1 kW Home Starter",
+        "category": "residential",
+        "capacityKw": 1,
+        "priceMin": 60000,
+        "priceMax": 70000,
+        "subsidy": 45000,
+        "priceUnit": "",
+        "idealFor": "Small homes with bills up to ₹1,000/month",
+        "monthlyGeneration": "110–130 units",
+        "roofArea": "80–100 sq ft",
+        "features": [
+          "2 × 550 Wp mono PERC / TOPCon panels",
+          "1 kW on-grid inverter",
+          "GI mounting structure",
+          "Net-meter application support"
+        ],
+        "featured": false,
+        "status": "published",
+        "order": 1,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "badge": "",
+        "ctaLabel": "",
+        "id": "plan-2kw",
+        "name": "2 kW Home",
+        "category": "residential",
+        "capacityKw": 2,
+        "priceMin": 115000,
+        "priceMax": 130000,
+        "subsidy": 90000,
+        "priceUnit": "",
+        "idealFor": "Bills of ₹1,500–2,000/month",
+        "monthlyGeneration": "220–260 units",
+        "roofArea": "160–200 sq ft",
+        "features": [
+          "4 × 550 Wp panels",
+          "2 kW on-grid inverter",
+          "Earthing and lightning arrester",
+          "Subsidy filing on PM Surya Ghar"
+        ],
+        "featured": false,
+        "status": "published",
+        "order": 2,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "badge": "",
+        "ctaLabel": "",
+        "id": "plan-3kw",
+        "name": "3 kW Family Home",
+        "category": "residential",
+        "capacityKw": 3,
+        "priceMin": 165000,
+        "priceMax": 185000,
+        "subsidy": 108000,
+        "priceUnit": "",
+        "idealFor": "Most 2–3 BHK homes, bills of ₹2,000–3,500/month",
+        "monthlyGeneration": "330–390 units",
+        "roofArea": "240–300 sq ft",
+        "features": [
+          "6 × 550 Wp panels",
+          "3 kW on-grid inverter with Wi-Fi monitoring",
+          "Elevated structure option",
+          "Maximum subsidy slab",
+          "6 months free cleaning"
+        ],
+        "featured": true,
+        "status": "published",
+        "order": 3,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "badge": "",
+        "ctaLabel": "",
+        "id": "plan-5kw",
+        "name": "5 kW Large Home",
+        "category": "residential",
+        "capacityKw": 5,
+        "priceMin": 270000,
+        "priceMax": 300000,
+        "subsidy": 108000,
+        "priceUnit": "",
+        "idealFor": "Larger homes with ACs, bills of ₹4,000–6,000/month",
+        "monthlyGeneration": "550–650 units",
+        "roofArea": "400–500 sq ft",
+        "features": [
+          "9–10 × 550 Wp panels",
+          "5 kW on-grid inverter",
+          "Wi-Fi app monitoring",
+          "Net metering and DISCOM liaison"
+        ],
+        "featured": false,
+        "status": "published",
+        "order": 4,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "badge": "",
+        "ctaLabel": "",
+        "id": "plan-10kw",
+        "name": "10 kW Villa / Shop",
+        "category": "commercial",
+        "capacityKw": 10,
+        "priceMin": 520000,
+        "priceMax": 580000,
+        "subsidy": 0,
+        "priceUnit": "",
+        "idealFor": "Showrooms, clinics, villas and small offices",
+        "monthlyGeneration": "1,100–1,300 units",
+        "roofArea": "800–1,000 sq ft",
+        "features": [
+          "18–19 × 550 Wp panels",
+          "10 kW three-phase inverter",
+          "Generation reports",
+          "Accelerated depreciation guidance"
+        ],
+        "featured": false,
+        "status": "published",
+        "order": 5,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "badge": "",
+        "ctaLabel": "",
+        "id": "plan-25kw",
+        "name": "25 kW Commercial",
+        "category": "commercial",
+        "capacityKw": 25,
+        "priceMin": 1150000,
+        "priceMax": 1300000,
+        "subsidy": 0,
+        "priceUnit": "",
+        "idealFor": "Schools, hospitals, small factories",
+        "monthlyGeneration": "2,800–3,200 units",
+        "roofArea": "2,000–2,500 sq ft",
+        "features": [
+          "Tier-1 bifacial panels",
+          "String inverters with remote monitoring",
+          "Structural load check",
+          "Annual performance report"
+        ],
+        "featured": false,
+        "status": "published",
+        "order": 6,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "badge": "",
+        "ctaLabel": "",
+        "id": "plan-six-month-care",
+        "name": "6-Month Free Care Plan",
+        "category": "maintenance",
+        "capacityKw": null,
+        "priceMin": 0,
+        "priceMax": 0,
+        "subsidy": 0,
+        "priceUnit": "with every new installation",
+        "idealFor": "Every new Baba Solars installation",
+        "monthlyGeneration": "",
+        "roofArea": "",
+        "features": [
+          "Free panel cleaning for the first 6 months",
+          "Performance check",
+          "Prompt after-sales support",
+          "Upgrade to AMC or drone cleaning after 6 months"
+        ],
+        "featured": true,
+        "status": "published",
+        "order": 7,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "badge": "",
+        "ctaLabel": "",
+        "id": "plan-clean",
+        "name": "One-time cleaning",
+        "category": "maintenance",
+        "capacityKw": null,
+        "priceMin": 499,
+        "priceMax": 999,
+        "subsidy": 0,
+        "priceUnit": "per visit",
+        "idealFor": "Systems up to 5 kW",
+        "monthlyGeneration": "",
+        "roofArea": "",
+        "features": [
+          "Soft-brush wash with low-TDS water",
+          "Visual check of panels and wiring",
+          "Before / after generation reading"
+        ],
+        "featured": false,
+        "status": "published",
+        "order": 8,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "badge": "",
+        "ctaLabel": "",
+        "id": "plan-amc-basic",
+        "name": "AMC Basic",
+        "category": "maintenance",
+        "capacityKw": null,
+        "priceMin": 2999,
+        "priceMax": 4499,
+        "subsidy": 0,
+        "priceUnit": "per year",
+        "idealFor": "Homes up to 5 kW",
+        "monthlyGeneration": "",
+        "roofArea": "",
+        "features": [
+          "4 cleanings a year",
+          "1 electrical health check",
+          "Inverter error diagnosis",
+          "Phone support"
+        ],
+        "featured": false,
+        "status": "published",
+        "order": 9,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "badge": "",
+        "ctaLabel": "",
+        "id": "plan-amc-plus",
+        "name": "AMC Plus",
+        "category": "maintenance",
+        "capacityKw": null,
+        "priceMin": 5999,
+        "priceMax": 7999,
+        "subsidy": 0,
+        "priceUnit": "per year",
+        "idealFor": "Homes and shops up to 10 kW",
+        "monthlyGeneration": "",
+        "roofArea": "",
+        "features": [
+          "Monthly cleaning",
+          "2 thermal and electrical inspections",
+          "Priority repair within 48 hours",
+          "Labour on repairs included"
+        ],
+        "featured": false,
+        "status": "published",
+        "order": 10,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "badge": "",
+        "ctaLabel": "",
+        "id": "plan-hybrid-3",
+        "name": "3 kW Hybrid with battery",
+        "category": "residential",
+        "capacityKw": 3,
+        "priceMin": 240000,
+        "priceMax": 285000,
+        "subsidy": 0,
+        "priceUnit": "",
+        "idealFor": "Homes with frequent power cuts",
+        "monthlyGeneration": "330–390 units",
+        "roofArea": "240–300 sq ft",
+        "features": [
+          "Hybrid inverter",
+          "5 kWh lithium battery",
+          "Backup for lights, fans and fridge"
+        ],
+        "featured": false,
+        "status": "draft",
+        "order": 11,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      }
+    ],
+    "capacityPlans": [
+      {
+        "id": "ref-3kw",
+        "segment": "residential",
+        "name": "3 kW Solar System",
+        "subtitle": "Small family / 2–3 BHK home",
+        "capacity": "3 kW",
+        "specs": [
+          {
+            "label": "Generation",
+            "value": "Approx. 12–15 units/day (360–450 units/month)"
+          },
+          {
+            "label": "Roof area",
+            "value": "Approx. 300 sq ft, shadow-free"
+          },
+          {
+            "label": "Monthly savings",
+            "value": "₹2,500 – ₹4,000"
+          },
+          {
+            "label": "Ideal for",
+            "value": "Homes using 300–400 units a month"
+          }
+        ],
+        "features": [],
+        "featured": true,
+        "badge": "For 2–3 BHK homes",
+        "priceNote": "Price: on free site survey",
+        "ctaLabel": "Get price",
+        "status": "published",
+        "order": 1,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "id": "ref-5kw",
+        "segment": "residential",
+        "name": "5 kW Solar System",
+        "subtitle": "Medium family / large house",
+        "capacity": "5 kW",
+        "specs": [
+          {
+            "label": "Generation",
+            "value": "Approx. 20–22 units/day (600–650 units/month)"
+          },
+          {
+            "label": "Roof area",
+            "value": "Approx. 500 sq ft"
+          },
+          {
+            "label": "Monthly savings",
+            "value": "₹4,500 – ₹6,500"
+          },
+          {
+            "label": "Ideal for",
+            "value": "Homes running ACs, refrigerators, water pumps and heavy appliances"
+          }
+        ],
+        "features": [],
+        "featured": false,
+        "badge": "",
+        "priceNote": "Price: on free site survey",
+        "ctaLabel": "Get price",
+        "status": "published",
+        "order": 2,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "id": "ref-10kw",
+        "segment": "residential",
+        "name": "10 kW Solar System",
+        "subtitle": "Large independent house / joint family",
+        "capacity": "10 kW",
+        "specs": [
+          {
+            "label": "Generation",
+            "value": "Approx. 40–45 units/day (1,200+ units/month)"
+          },
+          {
+            "label": "Roof area",
+            "value": "Approx. 1,000 sq ft"
+          },
+          {
+            "label": "Monthly savings",
+            "value": "₹9,000 – ₹12,000+"
+          },
+          {
+            "label": "Ideal for",
+            "value": "Large bungalows or joint families"
+          }
+        ],
+        "features": [],
+        "featured": false,
+        "badge": "",
+        "priceNote": "Price: on free site survey",
+        "ctaLabel": "Get price",
+        "status": "published",
+        "order": 3,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "id": "ref-commercial",
+        "segment": "commercial",
+        "name": "Commercial Solar System",
+        "subtitle": "Offices, shops & showrooms",
+        "capacity": "10 kW – 50 kW",
+        "specs": [
+          {
+            "label": "Sizing",
+            "value": "Customisable as per load"
+          },
+          {
+            "label": "Generation",
+            "value": "About 4 units per kW per day"
+          },
+          {
+            "label": "Payback",
+            "value": "Cost recovered within 3 to 4 years"
+          }
+        ],
+        "features": [
+          "Depreciation benefits",
+          "Lower commercial tariff rates",
+          "Uninterrupted daytime power supply"
+        ],
+        "featured": false,
+        "badge": "",
+        "priceNote": "Price: on free site survey",
+        "ctaLabel": "Get price",
+        "status": "published",
+        "order": 4,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      },
+      {
+        "id": "ref-industrial",
+        "segment": "industrial",
+        "name": "Industrial Solar Power Plant",
+        "subtitle": "Factories & warehouses",
+        "capacity": "50 kW – 500 kW+",
+        "specs": [
+          {
+            "label": "Capacity range",
+            "value": "50 kW to 500 kW+"
+          }
+        ],
+        "features": [
+          "Wind- and weather-resistant structural mounting",
+          "Large reduction in monthly overhead electricity cost",
+          "High-capacity inverter with professional grid synchronisation"
+        ],
+        "featured": false,
+        "badge": "",
+        "priceNote": "Price: on free site survey",
+        "ctaLabel": "Get price",
+        "status": "published",
+        "order": 5,
+        "updatedAt": "2026-10-01T10:00:00.000Z"
+      }
+    ],
+    "services": [
+      {
+        "id": "svc-residential",
+        "slug": "residential-installation",
+        "title": "Home roof installation",
+        "group": "installation",
+        "icon": "home",
+        "summary": "On-grid systems from 1 to 10 kW, sized to your bill and roof.",
+        "description": "We survey your roof, check shading and load, recommend a size, install panels and inverter, and file your net-meter and subsidy applications.",
+        "includes": [
+          "Free site survey",
+          "Shadow and structure check",
+          "Installation in 2–3 days",
+          "Net metering with CSPDCL",
+          "PM Surya Ghar subsidy filing"
+        ],
+        "startingPrice": "From ₹60,000 per kW range",
+        "status": "published",
+        "order": 1
+      },
+      {
+        "id": "svc-commercial",
+        "slug": "commercial-installation",
+        "title": "Commercial and industrial solar",
+        "group": "installation",
+        "icon": "factory",
+        "summary": "Systems for shops, schools, hospitals and factories from 10 kW up.",
+        "description": "Three-phase systems with structural load checks, string design and remote monitoring, planned around your working hours so business keeps running.",
+        "includes": [
+          "Load and tariff analysis",
+          "Structural assessment",
+          "Three-phase design",
+          "Remote monitoring",
+          "Depreciation guidance"
+        ],
+        "startingPrice": "Custom quote",
+        "status": "published",
+        "order": 2
+      },
+      {
+        "id": "svc-hybrid",
+        "slug": "hybrid-offgrid",
+        "title": "Hybrid and battery backup",
+        "group": "installation",
+        "icon": "battery",
+        "summary": "Keep the lights and fans running during power cuts.",
+        "description": "Hybrid inverters with lithium batteries for homes and shops that face frequent outages, or off-grid systems for farmhouses.",
+        "includes": [
+          "Backup load planning",
+          "Lithium or tubular battery options",
+          "Automatic changeover",
+          "Battery health checks"
+        ],
+        "startingPrice": "From ₹2.4 lakh (3 kW)",
+        "status": "published",
+        "order": 3
+      },
+      {
+        "id": "svc-drone-cleaning",
+        "slug": "drone-solar-panel-cleaning",
+        "title": "Drone solar panel cleaning",
+        "group": "maintenance",
+        "icon": "drone",
+        "highlight": "New",
+        "summary": "Drone-assisted cleaning for large, high or hard-to-reach solar arrays.",
+        "description": "For big roofs, sheds, tall buildings and ground-mounted plants where manual cleaning is slow or risky. The drone reaches every row, and we share before/after photos and generation readings.",
+        "includes": [
+          "Drone-assisted wash for hard-to-reach arrays",
+          "Aerial photos of every panel row",
+          "Less foot traffic on panels",
+          "Before/after generation reading"
+        ],
+        "startingPrice": "Quote after site check",
+        "status": "published",
+        "order": 4
+      },
+      {
+        "id": "svc-six-month-care",
+        "slug": "six-month-care-plan",
+        "title": "6-month free care plan",
+        "group": "maintenance",
+        "icon": "calendar",
+        "highlight": "Free for 6 months",
+        "summary": "Free panel cleaning for the first 6 months on every new installation.",
+        "description": "Every new Baba Solars installation includes six months of free panel cleaning, performance checks and after-sales support, so your system starts at full output.",
+        "includes": [
+          "Free panel cleaning for 6 months",
+          "Performance check",
+          "Prompt after-sales support",
+          "Reminder before the plan ends"
+        ],
+        "startingPrice": "Free with new installation",
+        "status": "published",
+        "order": 5
+      },
+      {
+        "id": "svc-cleaning",
+        "slug": "panel-cleaning",
+        "title": "Panel cleaning",
+        "group": "maintenance",
+        "icon": "droplets",
+        "summary": "Dust can cut generation by 15–25%. Regular washing brings it back.",
+        "description": "Soft brushes and low-TDS water, no harsh chemicals or pressure jets that void warranties. We record generation before and after.",
+        "includes": [
+          "Soft-brush wash",
+          "Low-TDS water",
+          "Bird-dropping removal",
+          "Before/after readings"
+        ],
+        "startingPrice": "From ₹499 per visit",
+        "status": "published",
+        "order": 6
+      },
+      {
+        "id": "svc-amc",
+        "slug": "annual-maintenance",
+        "title": "Annual maintenance (AMC)",
+        "group": "maintenance",
+        "icon": "clipboard",
+        "summary": "Scheduled cleaning and checks so your system keeps producing.",
+        "description": "A yearly plan covering cleaning, electrical tests, inverter checks and priority repair visits, with a short report after each visit.",
+        "includes": [
+          "Scheduled cleanings",
+          "Electrical health checks",
+          "Inverter log review",
+          "Priority repair visits"
+        ],
+        "startingPrice": "From ₹2,999 per year",
+        "status": "published",
+        "order": 7
+      },
+      {
+        "id": "svc-inspection",
+        "slug": "inspection",
+        "title": "Inspection and health check",
+        "group": "maintenance",
+        "icon": "gauge",
+        "summary": "Find out why generation dropped, or check a system before you buy a house.",
+        "description": "Thermal imaging for hot spots, IV-curve and insulation tests, earthing resistance and inverter logs, with a written report.",
+        "includes": [
+          "Thermal hot-spot scan",
+          "String voltage and current test",
+          "Earthing resistance test",
+          "Written report"
+        ],
+        "startingPrice": "From ₹1,499 per visit",
+        "status": "published",
+        "order": 8
+      },
+      {
+        "id": "svc-repair",
+        "slug": "repair",
+        "title": "Repair and inverter service",
+        "group": "support",
+        "icon": "wrench",
+        "summary": "Inverter errors, tripping, damaged cables or broken panels.",
+        "description": "We repair systems installed by any company, replace faulty parts, and help with manufacturer warranty claims.",
+        "includes": [
+          "Inverter fault diagnosis",
+          "Cable and connector replacement",
+          "Panel replacement",
+          "Warranty claim support"
+        ],
+        "startingPrice": "Visit from ₹699",
+        "status": "published",
+        "order": 9
+      },
+      {
+        "id": "svc-subsidy",
+        "slug": "subsidy-net-metering",
+        "title": "Subsidy and net metering help",
+        "group": "support",
+        "icon": "file",
+        "summary": "We handle the PM Surya Ghar portal and DISCOM paperwork.",
+        "description": "Registration, feasibility approval, net-meter installation and subsidy claim, tracked until the amount reaches your bank account.",
+        "includes": [
+          "Portal registration",
+          "Feasibility approval",
+          "Net-meter coordination",
+          "Subsidy claim tracking"
+        ],
+        "startingPrice": "Included with installation",
+        "status": "published",
+        "order": 10
+      },
+      {
+        "id": "svc-shift",
+        "slug": "relocation",
+        "title": "System relocation",
+        "group": "support",
+        "icon": "plug",
+        "summary": "Moving house or rebuilding the roof? We dismantle and reinstall.",
+        "description": "Careful removal, safe storage and reinstallation with fresh wiring and a full test.",
+        "includes": [
+          "Dismantling",
+          "Safe transport",
+          "Reinstallation",
+          "Commissioning test"
+        ],
+        "startingPrice": "Quote after survey",
+        "status": "draft",
+        "order": 11
+      }
+    ],
+    "projects": [
+      {
+        "id": "prj-1",
+        "title": "Sharma residence",
+        "location": "Deopuri, Raipur",
+        "category": "residential",
+        "capacityKw": 3,
+        "completedOn": "2026-08",
+        "summary": "Elevated structure over a terrace garden so the family keeps using the space below.",
+        "highlights": [
+          "Bill cut from ₹3,100 to ₹290",
+          "Subsidy credited in 34 days"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?auto=format&fit=crop&w=1200&q=70",
+        "featured": true,
+        "status": "published"
+      },
+      {
+        "id": "prj-2",
+        "title": "Shri Ganesh Rice Mill",
+        "location": "Dhamtari",
+        "category": "industrial",
+        "capacityKw": 50,
+        "completedOn": "2026-05",
+        "summary": "Tin-shed mounting with walkways for safe cleaning across a large mill roof.",
+        "highlights": [
+          "~6,200 units a month",
+          "Payback in about 4 years"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=1200&q=70",
+        "featured": true,
+        "status": "published"
+      },
+      {
+        "id": "prj-3",
+        "title": "Green Valley Public School",
+        "location": "Nava Raipur",
+        "category": "commercial",
+        "capacityKw": 25,
+        "completedOn": "2026-03",
+        "summary": "Installed over the summer break with a generation display in the school lobby.",
+        "highlights": [
+          "Covers ~80% of daytime load",
+          "Live monitoring for staff"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1631771819642-90cee9a2ccac?auto=format&fit=crop&w=1200&q=70",
+        "featured": true,
+        "status": "published"
+      },
+      {
+        "id": "prj-4",
+        "title": "Verma duplex",
+        "location": "Bhilai",
+        "category": "residential",
+        "capacityKw": 5,
+        "completedOn": "2026-01",
+        "summary": "Split arrays on two roof levels to avoid a water tank shadow.",
+        "highlights": [
+          "Wi-Fi monitoring",
+          "Net meter in 3 weeks"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1655300256335-beef51a914fe?auto=format&fit=crop&w=1200&q=70",
+        "featured": false,
+        "status": "published"
+      },
+      {
+        "id": "prj-5",
+        "title": "City Care Clinic",
+        "location": "Shankar Nagar, Raipur",
+        "category": "commercial",
+        "capacityKw": 10,
+        "completedOn": "2025-11",
+        "summary": "Hybrid system that keeps the clinic's essential equipment running during outages.",
+        "highlights": [
+          "4 hours of backup",
+          "Zero downtime install"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1694327671725-e2a81cda3436?auto=format&fit=crop&w=1200&q=70",
+        "featured": false,
+        "status": "published"
+      },
+      {
+        "id": "prj-6",
+        "title": "AMC – Ashoka Heights society",
+        "location": "Durg",
+        "category": "maintenance",
+        "capacityKw": 40,
+        "completedOn": "2026-09",
+        "summary": "Monthly cleaning and quarterly inspection for a 40 kW common-area system.",
+        "highlights": [
+          "Generation up 18% after first wash",
+          "Found and fixed two hot spots"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1668097613572-40b7c11c8727?auto=format&fit=crop&w=1200&q=70",
+        "featured": false,
+        "status": "published"
+      },
+      {
+        "id": "prj-7",
+        "title": "Patel farmhouse",
+        "location": "Mahasamund",
+        "category": "residential",
+        "capacityKw": 7.5,
+        "completedOn": "2025-09",
+        "summary": "Off-grid system with battery bank for a farmhouse with no reliable grid supply.",
+        "highlights": [
+          "Runs a 1 HP pump",
+          "No diesel generator needed"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&w=1200&q=70",
+        "featured": false,
+        "status": "published"
+      },
+      {
+        "id": "prj-8",
+        "title": "Inverter repair – Telibandha",
+        "location": "Raipur",
+        "category": "maintenance",
+        "capacityKw": 3,
+        "completedOn": "2026-07",
+        "summary": "Diagnosed an earth-fault trip on a system installed by another vendor and restored generation.",
+        "highlights": [
+          "Fixed in one visit"
+        ],
+        "imageUrl": "https://images.unsplash.com/photo-1660330589257-813305a4a383?auto=format&fit=crop&w=1200&q=70",
+        "featured": false,
+        "status": "draft"
+      }
+    ],
+    "testimonials": [
+      {
+        "id": "t1",
+        "name": "Rajesh Sharma",
+        "location": "Deopuri, Raipur",
+        "system": "3 kW home",
+        "rating": 5,
+        "quote": "They explained the subsidy properly and filed everything themselves. Our bill in summer was under ₹300."
+      },
+      {
+        "id": "t2",
+        "name": "Anita Verma",
+        "location": "Bhilai",
+        "system": "5 kW home",
+        "rating": 5,
+        "quote": "The team noticed our water tank would shade the panels and changed the layout. Small detail, big difference."
+      },
+      {
+        "id": "t3",
+        "name": "Mukesh Agrawal",
+        "location": "Dhamtari",
+        "system": "50 kW rice mill",
+        "rating": 5,
+        "quote": "Work finished on time and they planned around our milling hours. Monthly generation reports are useful."
+      },
+      {
+        "id": "t4",
+        "name": "Dr. Priya Nair",
+        "location": "Shankar Nagar",
+        "system": "10 kW hybrid",
+        "rating": 4,
+        "quote": "Backup has been reliable during outages. Response on a minor inverter alert was quick."
+      },
+      {
+        "id": "t5",
+        "name": "Society committee",
+        "location": "Ashoka Heights, Durg",
+        "system": "AMC, 40 kW",
+        "rating": 5,
+        "quote": "Generation went up visibly after their first cleaning. The visit reports are clear and honest."
+      }
+    ],
+    "faqs": [
+      {
+        "id": "f1",
+        "category": "general",
+        "question": "How much roof space do I need?",
+        "answer": "Roughly 80–100 sq ft of shadow-free roof per kW. A 3 kW system needs about 240–300 sq ft. We confirm this during the free site survey."
+      },
+      {
+        "id": "f2",
+        "category": "general",
+        "question": "How long does installation take?",
+        "answer": "Most home systems are installed in 2–3 days. Net-meter installation by the DISCOM usually takes another 2–4 weeks."
+      },
+      {
+        "id": "f3",
+        "category": "general",
+        "question": "Will solar work during the monsoon?",
+        "answer": "Yes, at lower output. Panels still generate on cloudy days, and yearly production evens out across seasons."
+      },
+      {
+        "id": "f4",
+        "category": "pricing",
+        "question": "Are the prices on your website final?",
+        "answer": "No. They are estimates for a standard RCC roof. Final price depends on roof type, structure height, cable length, panel and inverter brand, and site conditions. You get a written quote after the survey."
+      },
+      {
+        "id": "f5",
+        "category": "pricing",
+        "question": "Do you offer EMI or loans?",
+        "answer": "We can connect you with banks that offer solar loans under the PM Surya Ghar scheme. Interest rates and approval depend on the bank."
+      },
+      {
+        "id": "f6",
+        "category": "subsidy",
+        "question": "How much subsidy can I get?",
+        "answer": "Under PM Surya Ghar Muft Bijli Yojana, homes get ₹30,000 per kW for the first 2 kW and ₹18,000 for the 3rd kW: ₹30,000 for 1 kW, ₹60,000 for 2 kW and a maximum of ₹78,000 for 3 kW or more (MNRE guidelines). Amounts and eligibility are set by the government and can change; check pmsuryaghar.gov.in for current rules."
+      },
+      {
+        "id": "f-psg-deadline",
+        "category": "subsidy",
+        "question": "What is the last date for PM Surya Ghar?",
+        "answer": "The MNRE guidelines say the scheme will be implemented till 31 March 2027. No extension had been officially notified as of October 2026. Always confirm the current date on pmsuryaghar.gov.in or the national helpline 15555."
+      },
+      {
+        "id": "f-psg-eligible",
+        "category": "subsidy",
+        "question": "Who is eligible for the PM Surya Ghar subsidy?",
+        "answer": "Households with a residential electricity connection from their DISCOM, installing a grid-connected roof system with made-in-India (DCR) panels through a vendor registered on the national portal. Non-residential connections are not eligible."
+      },
+      {
+        "id": "f-psg-apply",
+        "category": "subsidy",
+        "question": "How do I apply for the subsidy?",
+        "answer": "Register on pmsuryaghar.gov.in with your consumer number, choose a registered vendor, get the system installed, upload the details and photos, and after DISCOM inspection and net metering the subsidy is credited to your bank account through the portal."
+      },
+      {
+        "id": "f7",
+        "category": "subsidy",
+        "question": "Do shops and factories get subsidy?",
+        "answer": "The residential subsidy does not apply to commercial or industrial connections. Businesses can often claim accelerated depreciation instead; ask your CA."
+      },
+      {
+        "id": "f8",
+        "category": "maintenance",
+        "question": "How often should panels be cleaned?",
+        "answer": "In Raipur's dusty months, every 2–4 weeks. In the monsoon, rain does part of the job. Our AMC plans schedule this for you."
+      },
+      {
+        "id": "f-drone-1",
+        "category": "maintenance",
+        "question": "What is drone solar panel cleaning?",
+        "answer": "A drone-assisted method of cleaning solar panels, useful for large roofs, tall buildings, sheds and ground-mounted plants that are slow or risky to clean by hand. We share before/after photos and generation readings."
+      },
+      {
+        "id": "f-drone-2",
+        "category": "maintenance",
+        "question": "Is drone cleaning right for my home roof?",
+        "answer": "Small home roofs are often quicker to clean by hand. We check your site for free and recommend drone or manual cleaning based on array size, height and access."
+      },
+      {
+        "id": "f-six-month",
+        "category": "maintenance",
+        "question": "What is the 6-month free care plan?",
+        "answer": "Every new Baba Solars installation includes six months of free panel cleaning, performance checks and after-sales support. After six months you can continue with an AMC or book cleaning when needed."
+      },
+      {
+        "id": "f9",
+        "category": "maintenance",
+        "question": "Do you service systems installed by other companies?",
+        "answer": "Yes. We clean, inspect and repair systems from any installer."
+      },
+      {
+        "id": "f10",
+        "category": "maintenance",
+        "question": "What warranties come with the system?",
+        "answer": "Typically 25 years on panel performance, 5–10 years on the inverter from the manufacturer, and 5 years on our workmanship."
+      }
+    ],
+    "heroSlides": [
+      {
+        "id": "slide-drone",
+        "kicker": "New: drone solar panel cleaning",
+        "title": "Drone cleaning for big roofs and solar plants",
+        "subtitle": "Faster, safer cleaning for hard-to-reach arrays, with before/after photos and generation readings.",
+        "imageUrl": "https://images.unsplash.com/photo-1642950863398-1fc3600a5313?auto=format&fit=crop&w=2000&q=70",
+        "ctaLabel": "Book drone cleaning",
+        "ctaLink": "/drone-cleaning",
+        "status": "published",
+        "order": 1
+      },
+      {
+        "id": "slide-1",
+        "kicker": "Accelerating the clean energy transition",
+        "title": "Roof solar for every home and business in Chhattisgarh",
+        "subtitle": "Design, installation, net metering and PM Surya Ghar subsidy support, handled end to end by our Raipur team.",
+        "imageUrl": "https://images.unsplash.com/photo-1655300256335-beef51a914fe?auto=format&fit=crop&w=2000&q=70",
+        "ctaLabel": "Book a free site survey",
+        "ctaLink": "/contact",
+        "status": "published",
+        "order": 2
+      },
+      {
+        "id": "slide-2",
+        "kicker": "6-month free service plan",
+        "title": "Six months of free cleaning & care with every new installation",
+        "subtitle": "Free panel cleaning, performance checks and after-sales support for your first six months.",
+        "imageUrl": "https://images.unsplash.com/photo-1754619880959-2b0528375883?auto=format&fit=crop&w=2000&q=70",
+        "ctaLabel": "See the 6-month plan",
+        "ctaLink": "/pricing#maintenance",
+        "status": "published",
+        "order": 3
+      },
+      {
+        "id": "slide-3",
+        "kicker": "Commercial & industrial power plants",
+        "title": "Cut operating costs for offices, schools and factories",
+        "subtitle": "High-capacity roof plants from 10 kW upward, engineered for safety and a 25-year life.",
+        "imageUrl": "https://images.unsplash.com/photo-1631771819642-90cee9a2ccac?auto=format&fit=crop&w=2000&q=70",
+        "ctaLabel": "View our power plants",
+        "ctaLink": "/projects",
+        "status": "published",
+        "order": 5
+      },
+      {
+        "id": "slide-4",
+        "kicker": "PM Surya Ghar · scheme period till 31 March 2027",
+        "title": "Get up to ₹78,000 subsidy on your home solar system",
+        "subtitle": "PM Surya Ghar: Muft Bijli Yojana. We help with the portal, net metering and subsidy follow-up.",
+        "imageUrl": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?auto=format&fit=crop&w=2000&q=70",
+        "ctaLabel": "Check eligibility & apply",
+        "ctaLink": "/pm-surya-ghar",
+        "status": "published",
+        "order": 4
+      }
+    ],
+    "gallery": [
+      {
+        "id": "g1",
+        "imageUrl": "https://images.unsplash.com/photo-1624397640148-949b1732bb0a?auto=format&fit=crop&w=1200&q=70",
+        "caption": "Panel mounting on a residential roof",
+        "category": "installation",
+        "status": "published",
+        "order": 1
+      },
+      {
+        "id": "g2",
+        "imageUrl": "https://images.unsplash.com/photo-1655300256335-beef51a914fe?auto=format&fit=crop&w=1200&q=70",
+        "caption": "Roof system on a family home",
+        "category": "residential",
+        "status": "published",
+        "order": 2
+      },
+      {
+        "id": "g3",
+        "imageUrl": "https://images.unsplash.com/photo-1631771819642-90cee9a2ccac?auto=format&fit=crop&w=1200&q=70",
+        "caption": "Commercial roof plant",
+        "category": "commercial",
+        "status": "published",
+        "order": 3
+      },
+      {
+        "id": "g4",
+        "imageUrl": "https://images.unsplash.com/photo-1754619880959-2b0528375883?auto=format&fit=crop&w=1200&q=70",
+        "caption": "Panel cleaning under the 6-month free care plan",
+        "category": "cleaning",
+        "status": "published",
+        "order": 4
+      },
+      {
+        "id": "g5",
+        "imageUrl": "https://images.unsplash.com/photo-1660330589243-4c640d878052?auto=format&fit=crop&w=1200&q=70",
+        "caption": "Our installation crew at work",
+        "category": "installation",
+        "status": "published",
+        "order": 5
+      },
+      {
+        "id": "g6",
+        "imageUrl": "https://images.unsplash.com/photo-1694327671725-e2a81cda3436?auto=format&fit=crop&w=1200&q=70",
+        "caption": "Multi-row array on a flat roof",
+        "category": "commercial",
+        "status": "published",
+        "order": 6
+      },
+      {
+        "id": "g7",
+        "imageUrl": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?auto=format&fit=crop&w=1200&q=70",
+        "caption": "Monocrystalline panels, close up",
+        "category": "residential",
+        "status": "published",
+        "order": 7
+      },
+      {
+        "id": "g8",
+        "imageUrl": "https://images.unsplash.com/photo-1559302504-64aae6ca6b6d?auto=format&fit=crop&w=1200&q=70",
+        "caption": "Carrying panels up for installation",
+        "category": "installation",
+        "status": "published",
+        "order": 8
+      },
+      {
+        "id": "g9",
+        "imageUrl": "https://images.unsplash.com/photo-1617269778723-73a40cf299bd?auto=format&fit=crop&w=1200&q=70",
+        "caption": "Finished roof installation",
+        "category": "residential",
+        "status": "published",
+        "order": 9
+      },
+      {
+        "id": "g10",
+        "imageUrl": "https://images.unsplash.com/photo-1660330589257-813305a4a383?auto=format&fit=crop&w=1200&q=70",
+        "caption": "Post-installation inspection",
+        "category": "cleaning",
+        "status": "published",
+        "order": 10
+      },
+      {
+        "id": "g11",
+        "imageUrl": "https://images.unsplash.com/photo-1642950863398-1fc3600a5313?auto=format&fit=crop&w=1200&q=70",
+        "caption": "Ground-mounted plant, aerial view",
+        "category": "commercial",
+        "status": "published",
+        "order": 11
+      },
+      {
+        "id": "g12",
+        "imageUrl": "https://images.unsplash.com/photo-1719848576338-9516ba7ccd8b?auto=format&fit=crop&w=1200&q=70",
+        "caption": "New panels ready to fit",
+        "category": "installation",
+        "status": "published",
+        "order": 12
+      }
+    ],
+    "content": {
+      "businessName": "Baba Solars",
+      "tagline": "Accelerating the clean energy transition",
+      "heroTitle": "Empowering Homes & Businesses with Clean Energy",
+      "heroSubtitle": "Expert roof solar installation for residential, commercial and industrial properties in Chhattisgarh.",
+      "phone": "92039 00410",
+      "whatsapp": "919203900410",
+      "email": "babasolars76@gmail.com",
+      "address": "Deopuri, House No. 03, Shri Balaji Golden Palace, Behind Shri Upadhyay Furniture, Deopuri, Raipur, Chhattisgarh – 492015, India",
+      "hours": "10:30 AM – 5:30 PM",
+      "announcement": "New: Drone solar panel cleaning · 6 months free care on every new installation",
+      "announcementEnabled": true,
+      "stats": [
+        {
+          "value": "500+",
+          "label": "roofs installed"
+        },
+        {
+          "value": "2.4 MW",
+          "label": "capacity commissioned"
+        },
+        {
+          "value": "25 yrs",
+          "label": "panel performance warranty"
+        },
+        {
+          "value": "48 hr",
+          "label": "typical repair response"
+        }
+      ],
+      "serviceAreas": [
+        "Raipur",
+        "Nava Raipur",
+        "Durg",
+        "Bhilai",
+        "Dhamtari",
+        "Mahasamund",
+        "Rajnandgaon",
+        "Bilaspur"
+      ],
+      "highlights": [
+        {
+          "icon": "award",
+          "title": "500+",
+          "text": "Successful solar installations"
+        },
+        {
+          "icon": "building",
+          "title": "Residential & Commercial",
+          "text": "Custom systems for homes and offices"
+        },
+        {
+          "icon": "shield",
+          "title": "25 Years",
+          "text": "Panel performance warranty"
+        },
+        {
+          "icon": "leaf",
+          "title": "100% Eco-conscious",
+          "text": "Single-use plastic free installs"
+        },
+        {
+          "icon": "users",
+          "title": "Expert Engineers",
+          "text": "Safe installation and wiring"
+        },
+        {
+          "icon": "headset",
+          "title": "After-Sales Support",
+          "text": "Regular maintenance and cleaning"
+        },
+        {
+          "icon": "drone",
+          "title": "Drone Cleaning",
+          "text": "For large and hard-to-reach arrays"
+        },
+        {
+          "icon": "calendar",
+          "title": "6 Months Free",
+          "text": "Cleaning and care after installation"
+        }
+      ],
+      "partners": [
+        "Waaree",
+        "Adani Solar",
+        "Tata Power Solar",
+        "Vikram Solar",
+        "Luminous",
+        "Growatt",
+        "Havells",
+        "Polycab"
+      ],
+      "videoUrl": "",
+      "social": {
+        "facebook": "",
+        "instagram": "",
+        "youtube": ""
+      },
+      "home": {
+        "sixMonthKicker": "Included with every new installation",
+        "sixMonthTitle": "6 Months' Free Cleaning Service",
+        "sixMonthIntro": "Every new installation includes free panel cleaning for six months. Here is our team at work on recent roofs.",
+        "sixMonthButton": "View all images",
+        "trustKicker": "Why families and businesses trust us",
+        "solutionsKicker": "Our Solar Solutions",
+        "solutionsTitle": "Solar Plants: powering the future with renewables",
+        "solutionsIntro": "Reliable solar installations for every property type.",
+        "solutionsLinkLabel": "More details",
+        "solutions": [
+          {
+            "id": "sol-res",
+            "title": "Residential Solar (Home)",
+            "text": "Customised roof systems for independent houses and apartments that cut electricity bills.",
+            "image": "https://images.unsplash.com/photo-1655300256335-beef51a914fe?auto=format&fit=crop&w=1000&q=70",
+            "link": "/services#residential-installation"
+          },
+          {
+            "id": "sol-com",
+            "title": "Commercial Solar (Office & Shops)",
+            "text": "High-efficiency systems designed for offices, showrooms, clinics and retail businesses.",
+            "image": "https://images.unsplash.com/photo-1631771819642-90cee9a2ccac?auto=format&fit=crop&w=1000&q=70",
+            "link": "/services#commercial-installation"
+          },
+          {
+            "id": "sol-ind",
+            "title": "Industrial Solar Plants",
+            "text": "Large-capacity installations for factories, warehouses, mills and manufacturing units.",
+            "image": "https://images.unsplash.com/photo-1642950863398-1fc3600a5313?auto=format&fit=crop&w=1000&q=70",
+            "link": "/projects"
+          }
+        ],
+        "maintenanceKicker": "After-sales care",
+        "maintenanceTitle": "Maintenance & Cleaning",
+        "maintenanceText": "Regular panel cleaning, performance checks and prompt after-sales support, for systems installed by us or any other company.",
+        "maintenancePoints": [
+          "Drone cleaning for large arrays (new)",
+          "Soft-brush wash with low-TDS water",
+          "Inverter and wiring health check",
+          "Thermal hot-spot inspection",
+          "Repair visit within 48 hours on AMC",
+          "6 months free care on new installs"
+        ],
+        "maintenancePrimaryLabel": "Book a cleaning",
+        "maintenancePrimaryLink": "/contact?service=Panel%20cleaning",
+        "maintenanceSecondaryLabel": "See AMC plans",
+        "maintenanceSecondaryLink": "/pricing#maintenance",
+        "missionKicker": "Our Mission",
+        "missionTitle": "Clean, affordable power for everyone in Chhattisgarh",
+        "missionText": "To empower homes, offices and businesses across Chhattisgarh with reliable, high-quality and affordable roof solar solutions, making clean and green energy accessible to everyone.",
+        "missionButton": "About Baba Solars",
+        "whyKicker": "Why Choose Us",
+        "whyTitle": "From site survey to net metering, we handle everything",
+        "whyUs": [
+          {
+            "id": "why-1",
+            "title": "High-Efficiency Panels",
+            "text": "Tier-1 mono PERC and TOPCon panels with branded inverters, chosen for maximum generation in Chhattisgarh sun."
+          },
+          {
+            "id": "why-2",
+            "title": "End-to-End Solutions",
+            "text": "From site survey to installation, net metering and subsidy, we handle everything with one point of contact."
+          },
+          {
+            "id": "why-3",
+            "title": "Expert Installation",
+            "text": "Trained engineers, proper earthing and lightning protection, and tidy wiring that lasts for decades."
+          }
+        ],
+        "calculatorKicker": "Reliable & Cost-Effective",
+        "calculatorTitle": "Reduce your monthly electricity bill by up to 90%",
+        "calculatorIntro": "Move the slider to your average bill to see a system size, estimated price, subsidy and payback.",
+        "areasKicker": "Our Service Areas",
+        "areasTitle": "Expert solar installation across Chhattisgarh",
+        "areas": [
+          {
+            "id": "area-raipur",
+            "name": "Raipur & Nava Raipur",
+            "text": "Head office in Deopuri. Surveys within 24 hours.",
+            "image": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?auto=format&fit=crop&w=900&q=70"
+          },
+          {
+            "id": "area-dhamtari",
+            "name": "Dhamtari",
+            "text": "Homes, rice mills and agri-processing units.",
+            "image": "https://images.unsplash.com/photo-1497435334941-8c899ee9e8e9?auto=format&fit=crop&w=900&q=70"
+          },
+          {
+            "id": "area-durg",
+            "name": "Durg & Bhilai",
+            "text": "Residential societies, shops and industry.",
+            "image": "https://images.unsplash.com/photo-1694327671725-e2a81cda3436?auto=format&fit=crop&w=900&q=70"
+          },
+          {
+            "id": "area-other",
+            "name": "Other Districts",
+            "text": "Mahasamund, Rajnandgaon, Bilaspur and more on request.",
+            "image": "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&w=900&q=70"
+          }
+        ],
+        "partnersTitle": "Brands we install",
+        "benefits": [
+          {
+            "id": "ben-1",
+            "title": "Solar Energy Benefits",
+            "text": "Switch to clean, renewable power, bring your monthly bill close to zero, and protect yourself against rising tariffs."
+          },
+          {
+            "id": "ben-2",
+            "title": "Professional Installation",
+            "text": "Our team ensures safe roof mounting, clean wiring and a seamless grid connection for your home or office."
+          }
+        ],
+        "videoText": "Watch our recent roof installation and see how we help homes and businesses switch to clean energy smoothly.",
+        "photoText": "See photos of recent roof installations and how we help homes and businesses switch to clean energy.",
+        "testimonialsKicker": "Testimonials",
+        "testimonialsTitle": "What our customers say"
+      },
+      "pricingPage": {
+        "heroTitle": "Solar Pricing Plans",
+        "heroIntro": "Estimated prices for Raipur, including GST, installation and net-meter paperwork. Your exact price comes after a free survey.",
+        "capacityKicker": "Solar plans by capacity",
+        "capacityTitle": "Home, commercial and industrial plans",
+        "capacityIntro": "Generation, roof area and savings for each size. Prices depend on your roof and equipment, so we confirm them after a free site survey.",
+        "rangesKicker": "Estimated prices",
+        "rangesTitle": "Price ranges and care plans",
+        "tabsLabel": "Show plans for",
+        "tabs": {
+          "residential": {
+            "label": "Home systems",
+            "note": "Subsidy is credited to your bank account after commissioning."
+          },
+          "commercial": {
+            "label": "Commercial",
+            "note": "Commercial connections are not eligible for the residential subsidy."
+          },
+          "maintenance": {
+            "label": "Cleaning & AMC",
+            "note": "For systems installed by any company."
+          }
+        },
+        "featuredBadge": "Most chosen",
+        "freeBadge": "Included free",
+        "freePriceLabel": "FREE",
+        "ctaLabel": "Get an exact quote",
+        "emptyTitle": "No plans listed here yet",
+        "emptyMessage": "We still offer this. Tell us what you need and we will send a quote.",
+        "disclaimerTitle": "About these prices",
+        "disclaimerText": "All prices are estimates for a standard RCC roof in Raipur, including GST, and may change with panel and inverter brand, structure height, cable length, roof type and site conditions. Subsidy amounts follow PM Surya Ghar Muft Bijli Yojana for residential connections, are paid by the government directly to your bank account, and depend on eligibility and current government rules. You get a written, itemised quote after a free site survey.",
+        "calculatorTitle": "Work out a size and price for your bill",
+        "faqTitle": "Pricing and subsidy questions",
+        "ctaBandTitle": "Get an exact, itemised quote"
+      },
+      "servicesPage": {
+        "heroTitle": "Our Services",
+        "heroIntro": "From the first survey to the twentieth cleaning. One team, one phone number.",
+        "groups": {
+          "installation": {
+            "title": "Solar installation",
+            "intro": "New systems for homes, businesses and farms, sized to your bills and roof."
+          },
+          "maintenance": {
+            "title": "Cleaning, maintenance and inspection",
+            "intro": "Keep generation high. Works for systems from any installer."
+          },
+          "support": {
+            "title": "Repair and paperwork",
+            "intro": "Fix faults, claim warranties and get your subsidy and net meter sorted."
+          }
+        },
+        "dustTitle": "Dirty panels quietly cost you money",
+        "dustText": "Raipur's dust, construction and bird droppings can cut output by 15–25% within a few weeks. On a 3 kW system that is roughly 60–90 units a month you pay for again.",
+        "dustButton": "See cleaning and AMC prices",
+        "dustStats": [
+          {
+            "value": "15–25%",
+            "label": "output lost to dust"
+          },
+          {
+            "value": "2–4 weeks",
+            "label": "cleaning interval in dry months"
+          },
+          {
+            "value": "₹499",
+            "label": "single cleaning visit from"
+          },
+          {
+            "value": "48 hr",
+            "label": "repair response on AMC Plus"
+          }
+        ]
+      },
+      "about": {
+        "heroTitle": "A Raipur team that installs and looks after roof solar",
+        "heroIntro": "{businessName} began as a local electrical contractor. Today we design, install and maintain solar systems for families, shops, schools and factories across Chhattisgarh.",
+        "storyTitle": "Why we do this",
+        "story": [
+          "Raipur gets strong sun for most of the year, and electricity bills keep climbing. A well-built roof system pays for itself in four to six years and keeps working for twenty-five.",
+          "But we kept seeing systems that were badly sized, shaded by water tanks, never cleaned, or abandoned by the installer after the first fault. So we built a company that does both: careful installation and long-term care.",
+          "Our engineers and technicians are local, trained in electrical safety, and reachable on the same number for years."
+        ],
+        "missionTitle": "Our mission",
+        "missionText": "Make clean, reliable solar power affordable for every home and business in Chhattisgarh, and keep it producing for its full life.",
+        "principlesTitle": "How we work",
+        "principlesIntro": "Four things we hold ourselves to on every job.",
+        "principles": [
+          {
+            "id": "pr-1",
+            "title": "Size it honestly",
+            "text": "We size systems to your bills and roof, not to the biggest number we can sell. If 2 kW is enough, we say so."
+          },
+          {
+            "id": "pr-2",
+            "title": "Show every rupee",
+            "text": "Quotes list panel and inverter brand, structure, cabling and labour separately, so you can compare."
+          },
+          {
+            "id": "pr-3",
+            "title": "Build for 25 years",
+            "text": "Hot-dip galvanised structures, proper earthing and lightning arresters, and cable routing that survives the monsoon."
+          },
+          {
+            "id": "pr-4",
+            "title": "Stay after handover",
+            "text": "Cleaning, inspection and repair are half our work. We service systems from any installer."
+          }
+        ],
+        "timelineTitle": "Ten years in Raipur",
+        "timeline": [
+          {
+            "id": "tl-2016",
+            "year": "2016",
+            "text": "Started as an electrical contracting team in Deopuri, Raipur."
+          },
+          {
+            "id": "tl-2019",
+            "year": "2019",
+            "text": "First roof solar installations for homes in Raipur."
+          },
+          {
+            "id": "tl-2022",
+            "year": "2022",
+            "text": "Began commercial and industrial projects in Dhamtari and Durg."
+          },
+          {
+            "id": "tl-2024",
+            "year": "2024",
+            "text": "Added a dedicated cleaning and maintenance crew."
+          },
+          {
+            "id": "tl-2026",
+            "year": "2026",
+            "text": "Crossed 500 roofs and 2.4 MW installed."
+          }
+        ],
+        "ctaTitle": "Talk to an engineer, not a salesperson"
+      },
+      "cta": {
+        "title": "Find out what your roof can produce",
+        "text": "A free site survey takes about 30 minutes. We check shading, structure and your bills, then give you a written quote.",
+        "primaryLabel": "Book a free survey",
+        "primaryLink": "/contact",
+        "whatsappLabel": "WhatsApp us"
+      }
+    }
+  }
+}

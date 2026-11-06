@@ -1,0 +1,48 @@
+{
+  "name": "baba-solars-api",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Baba Solars backend \u2014 Express, PostgreSQL (Drizzle ORM), Zod",
+  "scripts": {
+    "dev": "tsx watch --env-file-if-exists=.env src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc --noEmit && node build.mjs",
+    "test": "tsx --env-file-if-exists=.env.test --test --test-concurrency=1 test/*.test.ts",
+    "start": "node --env-file-if-exists=.env dist/server.js",
+    "db:generate": "drizzle-kit generate",
+    "db:migrate": "node --env-file-if-exists=.env dist/migrate.js",
+    "db:migrate:dev": "tsx --env-file-if-exists=.env src/scripts/migrate.ts",
+    "db:seed": "node --env-file-if-exists=.env dist/seed.js",
+    "db:seed:dev": "tsx --env-file-if-exists=.env src/scripts/seed.ts",
+    "data:migrate": "node --env-file-if-exists=.env dist/migrate-data.js",
+    "data:migrate:dev": "tsx --env-file-if-exists=.env src/scripts/migrate-data.ts"
+  },
+  "engines": {
+    "node": ">=22.12"
+  },
+  "dependencies": {
+    "bullmq": "^6.7.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "drizzle-orm": "^0.45.4",
+    "express": "^5.3.0",
+    "express-rate-limit": "^8.7.3",
+    "helmet": "^8.3.0",
+    "ioredis": "^6.0.0",
+    "pg": "^8.23.1",
+    "pino": "^10.4.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/cookie-parser": "^1.4.10",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.6",
+    "@types/pg": "^8.23.1",
+    "drizzle-kit": "^0.31.11",
+    "esbuild": "^0.28.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

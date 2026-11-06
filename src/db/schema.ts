@@ -1,0 +1,13 @@
+/** Every table (drizzle-kit reads this file to generate migrations). Each module owns its model. */
+export * from '../modules/users/users.model'
+export * from '../modules/auth/auth.model'
+export * from '../modules/enquiries/enquiries.model'
+export * from '../modules/offers/offers.model'
+export * from '../modules/content/content.model'
+export * from '../modules/companies/companies.model'
+export * from '../modules/catalog/catalog.model'
+export * from '../modules/proposals/proposals.model'
+export * from '../modules/quotations/quotations.model'
+export * from '../modules/invoices/invoices.model'
+export * from '../modules/uploads/uploads.model'
+export * from './common.model'
